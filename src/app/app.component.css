@@ -1,0 +1,29 @@
+.invalid{
+	border: 1px solid red;
+}
+
+#my-form{
+	width: 600px;
+}
+
+.al{
+  height: 10px;
+  width: 100%;
+  font-size: 0.8rem;
+}
+.valid{
+	border: 1px solid greenyellow;
+}
+
+#main-content{
+  margin: auto;
+}
+
+.inputs{
+  width: 633px;
+  margin-bottom: 10px;
+}
+
+.data-table{
+  width: 600px;
+}
